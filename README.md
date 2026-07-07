@@ -12,10 +12,10 @@
 
 I am a geospatial researcher and data scientist focused on land use and land cover mapping. I combine **Geosciences**, **Remote Sensing**, and **Machine Learning** to turn complex satellite imagery and spatial datasets into actionable insights and automated workflows for environmental decision-making.
 
-- 🎓 **PhD Candidate** in Applied Geosciences at the University of Brasília (UnB).
-- 🎓 **M.Sc.** in Geographic Information Science and Systems at NOVA IMS (Lisbon).
-- 🎓 **B.Sc.** in Geography at the Federal University of Goiás (UFG).
-- 🎓 **Tecgo.** in Geoprocessing at the Federal Institute of Goiás (IFG).
+- 🎓 **PhD Candidate** in Applied Geosciences at Geoscience Institute - University of Brasília.
+- 🎓 **M.Sc.** in Science and Geographic Information Systems at NOVA IMS - University NOVA of Lisbon.
+- 🎓 **B.Sc.** in Geography at IESA - Federal University of Goiás.
+- 🎓 **Tecgo.** in Geoprocessing at the Federal Institute of Goiás.
 - 🔬 **Current Focus:** Developing a doctoral thesis funded by CNPq using Vision-Language Models (VLM), Deep Learning, and Remote Sensing to map the Cerrado biome.
 - 💡 **Core Interests:** Deep Learning for Earth Observation (GeoAI), Land Use/Cover Classifications (LULC), Spatial Analytics, and Big Spatial Data.
 
@@ -31,12 +31,12 @@ I am a geospatial researcher and data scientist focused on land use and land cov
 
 ## 🚀 Highlighted Professional Journey
 
-- **CNPq** | *Researcher* (Aug 2025 - Present) — Deep Learning and GIS pipeline development for the Cerrado biome.
-- **INPE** | *Scientific Researcher* (Jul 2024 - Mar 2025) — Earth Observation and methodology development.
-- **Accenture** | *Data Analyst* (May 2023 - Nov 2023) — Data engineering, analytics pipelines, and collection.
-- **Finsolutia** | *Junior Software Developer* (Oct 2022 - Apr 2023) — Python, SQL, and Power BI automation.
-- **DGT Portugal** | *Geographer & Photointerpreter* (Jul 2018 - Dec 2019) — Spatial data production and analysis.
-- **LAPIG (UFG)** | *GIS Analyst* (May 2013 - Jun 2017) — Image processing and GIS laboratory workflows.
+- **CNPq** Brazil | *Researcher* (Aug 2025 - Present) — Deep Learning and GIS pipeline development for the Cerrado biome.
+- **INPE** Brazil | *Scientific Researcher* (Jul 2024 - Mar 2025) — Earth Observation and methodology development.
+- **Accenture** Portugal | *Data Analyst* (May 2023 - Nov 2023) — Data engineering, analytics pipelines, and collection.
+- **Finsolutia** Portugal | *Junior Software Developer* (Oct 2022 - Apr 2023) — Python, SQL, and Power BI automation.
+- **DGT Portugal** Portugal | *Geographer & Photointerpreter* (Jul 2018 - Dec 2019) — Spatial data production and analysis.
+- **LAPIG (UFG)**  Brazil| *GIS Analyst* (May 2013 - Jun 2017) — Image processing remote sensing and GIS laboratory workflows.
 
 ---
 
@@ -52,7 +52,7 @@ I am a geospatial researcher and data scientist focused on land use and land cov
 
 ### 🏅 Certifications & Awards
 - **GEOINT Collegiate Certificate (GCC)** issued by United States Geospatial Intelligence Foundation (USGIF)
-- **Best Poster Award** issued by XXI Simpósio Brasileiro de Sensoriamento Remoto (SBSR)
+- **Best Poster Award** issued by XII Simpósio Brasileiro de Sensoriamento Remoto 2005 (SBSR)
 
 ---
 
