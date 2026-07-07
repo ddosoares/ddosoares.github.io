@@ -1,4 +1,4 @@
-# 🌍 Hello, I'm Daniel de Oliveira Soares!
+# 🌍 Hello, I'm Daniel Soares!
 
 ### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD Researcher
 
