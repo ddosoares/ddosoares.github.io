@@ -12,7 +12,7 @@
 
 I am a geospatial researcher and data scientist focused on land use and land cover mapping. I combine **Geosciences**, **Remote Sensing**, and **Machine Learning** to turn complex satellite imagery and spatial datasets into actionable insights and automated workflows for environmental decision-making.
 
-- 🎓 **PhD Candidate** in Applied Geosciences at Geoscience Institute - University of Brasília.
+- 🎓 **PhD Candidate** in Applied Geosciences at Geosciences Institute - University of Brasília.
 - 🎓 **M.Sc.** in Science and Geographic Information Systems at NOVA IMS - University NOVA of Lisbon.
 - 🎓 **B.Sc.** in Geography at IESA - Federal University of Goiás.
 - 🎓 **Tecgo.** in Geoprocessing at the Federal Institute of Goiás.
