@@ -1,6 +1,6 @@
 # 🌍 Hey, I'm Daniel Soares!
 
-### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD Researcher
+### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD candidate Researcher
 
 - [ORCID](https://orcid.org/0000-0002-8582-0854)
 - [GitHub](https://github.com/ddosoares)
@@ -51,8 +51,8 @@ I am a geospatial researcher and data scientist focused on land use and land cov
 6. *Adaptation of the Corine Land Cover Methodology to TerraClass Cerrado for Land Use and Land Cover analysis in the Cerrado: Case study in Cristalina, Goiás.*
 
 ### 🏅 Certifications & Awards
-- **GEOINT Collegiate Certificate (GCC)**
-- **Best Poster Award** - XXI Simpósio Brasileiro de Sensoriamento Remoto (SBSR)
+- **GEOINT Collegiate Certificate (GCC)** issued by United States Geospatial Intelligence Foundation (USGIF)
+- **Best Poster Award** issued by XXI Simpósio Brasileiro de Sensoriamento Remoto (SBSR)
 
 ---
 
