@@ -1,4 +1,4 @@
-# 🌍 Hello, I'm Daniel Soares!
+# 🌍 Hey, I'm Daniel Soares!
 
 ### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD Researcher
 
