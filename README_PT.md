@@ -1,7 +1,7 @@
 # ⚖️ Daniel Soares | Perícias Judiciais e Soluções em GeoAI
 
 Cientista de Dados Geoespaciais e Especialista em Geointeligência certificado pela United States Geospatial Intelligence Foundation (USGIF). 
-Atuo como Perito Técnico Auxiliar da Justiça Estadual e Federal, aplicando Inteligência Artificial (Deep Learning/Active Learning), Visão Computacional e Sensoriamento Remoto para a resolução de disputas territoriais, ambientais e patrimoniais complexas.
+Atuo como Perito Técnico Auxiliar da Justiça Estadual/Distrital e Federal, aplicando Inteligência Artificial (Deep Learning/Active Learning), Visão Computacional e Sensoriamento Remoto para a resolução de disputas territoriais, ambientais e patrimoniais complexas.
 
 ## 🛠️ Escopo de Atuação Forense
 * **Análise Temporal de Satélite:** Prova cronológica de desmatamento, invasões de terras públicas ou início de ocupações urbanas e rurais.
