@@ -3,7 +3,7 @@
 ### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD candidate Researcher
 
 ---
- !  **IMPORTANT (Português)**
+**IMPORTANT (Português)**
 > 🔴 **Para Atuação Forense e Perícias Judiciais (Brasil):** [Acesse o Portfólio em Português aqui](README_PT.md)
 ---
 
