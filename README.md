@@ -2,7 +2,8 @@
 
 ### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | PhD candidate Researcher
 
-🟢 **Para Atuação Forense e Perícias Judiciais (Brasil):** [Acesse o Portfólio em Português aqui](README_PT.md)
+ [!IMPORTANT]
+> 🔴 **Para Atuação Forense e Perícias Judiciais (Brasil):** [Acesse o Portfólio em Português aqui](README_PT.md)
 
 
 - [ORCID](https://orcid.org/0000-0002-8582-0854)
