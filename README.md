@@ -58,7 +58,7 @@ I am a geospatial researcher and data scientist focused on land use and land cov
 6. *Adaptation of the Corine Land Cover Methodology to TerraClass Cerrado for Land Use and Land Cover analysis in the Cerrado: Case study in Cristalina, Goiás.*
 
 ### 🏅 Certifications & Awards
-- **GEOINT Collegiate Certificate (GCC)** issued by United States Geospatial Intelligence Foundation (USGIF)
+- **GEOINT Collegiate Certificate (GCC)** issued by United States Geospatial Intelligence Foundation (USGIF) [GEOINT Badge Certification](https://bcert.me/scpdzrcoy)
 - **Best Poster Award** issued by XII Simpósio Brasileiro de Sensoriamento Remoto 2005 (SBSR)
 
 ---
