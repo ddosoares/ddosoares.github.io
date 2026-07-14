@@ -1,4 +1,10 @@
-# ⚖️ Daniel Soares | Perícias Judiciais e Soluções em GeoAI
+# ⚖️ Daniel Soares | Perícias Judiciais e Soluções em GeoAI | Geointeligência
+<a href="https://bcert.me/bc/html/show-badge.html?b=cpdzrcoy" target="_blank">
+  <img src="geoint-gcc-badge.png" 
+       alt="GEOINT Collegiate Certificate" 
+       width="68" 
+       style="margin-left: 12px; vertical-align: -6px;">
+</a>
 
 Cientista de Dados Geoespaciais e Especialista em Geointeligência certificado pela United States Geospatial Intelligence Foundation (USGIF). 
 Atuo como Perito Técnico Auxiliar da Justiça Estadual/Distrital e Federal, aplicando Inteligência Artificial (Deep Learning/Active Learning), Visão Computacional e Sensoriamento Remoto para a resolução de disputas territoriais, ambientais e patrimoniais complexas.
