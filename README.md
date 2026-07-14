@@ -1,6 +1,9 @@
 # 🌍 Hey, I’m Daniel Soares! 
 <a href="https://bcert.me/bc/html/show-badge.html?b=cpdzrcoy" target="_blank">
-  <img src="https://bcert.me/api/badge/image/cpdzrcoy" alt="GEOINT Badge" width="65" style="margin-left: 10px; vertical-align: -4px;">
+  <img src="geoint-gcc-badge.png" 
+       alt="GEOINT Collegiate Certificate" 
+       width="68" 
+       style="margin-left: 12px; vertical-align: -6px;">
 </a>
 
 ### 🗺️ Geospatial Data Scientist | Remote Sensing & GeoAI Specialist | GEOINT Professional | PhD candidate Researcher
