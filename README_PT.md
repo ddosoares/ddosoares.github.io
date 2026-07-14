@@ -6,7 +6,7 @@
        style="margin-left: 12px; vertical-align: -6px;">
 </a>
 
-### ⚖️ Perícias Judiciais e Soluções em GeoAI | Geointeligência
+### ⚖️ Perícias Judiciais e Soluções em GeoAI | Geointeligência | Doutorando UnB
 
 ---
 
